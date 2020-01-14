@@ -1,6 +1,8 @@
 # RestAPITest
 Testing Restful booking API, it consists of a simple booking-controller that allows you to create, update, delete and view existing bookings.
 
+[Tested API](https://automationintesting.online/booking/swagger-ui.html)
+
 ## Getting Started
 
 The project can be cloned from GitHub. Since it is a maven project, all the dependencies will be imported easily on your local machine for the enhancing the development and test.
